@@ -1,5 +1,7 @@
 # sk_cathode
 
+This is a copy of [sk_cathode](https://github.com/OzAmram/sk_cathode)
+
 ## Core idea
 
 This (work-in-progress) repo aims to illustrate how to deploy anomaly detection models such as [CATHODE](https://arxiv.org/abs/2109.00546) and [LaCATHODE](https://arxiv.org/abs/2210.14924) by hiding technical implementation details behind a scikit-learn-like API.
