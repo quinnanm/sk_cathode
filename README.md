@@ -1,6 +1,6 @@
 # sk_cathode
 
-This is a copy of [sk_cathode](https://github.com/OzAmram/sk_cathode)
+This is a copy of [sk_cathode](https://github.com/OzAmram/sk_cathode) for [ML4FP 2026](https://indico.global/event/17000/timetable/?view=standard#13-anomaly-detection-lecture-t). NERSC Jupyterhub setup instructions can be found [here](https://docs.google.com/presentation/d/1X1Z2Mks9atCR2TBAHuqNWVpVjoRuYsBKHb-UVZgwQ3o/edit?slide=id.g3e5cad0e7d6_0_0#slide=id.g3e5cad0e7d6_0_0).
 
 ## Core idea
 
